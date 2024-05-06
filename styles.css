@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #filters {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin-right: 10px;
+  }
+  
+  #chatList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .chatItem {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .chatItem:hover {
+    background-color: #f0f0f0;
+  }
+  
